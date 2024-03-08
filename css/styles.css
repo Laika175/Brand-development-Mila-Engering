@@ -36,7 +36,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #FF747A;
 }
 
 .biography-details li, .skill-list li {
@@ -55,5 +55,11 @@ body {
   font-weight: 400;
   font-style: normal;
 	color: #FF747A;
+}
+.title-font-blue {
+  font-family: "Madimi One", sans-serif;
+  font-weight: 350;
+  font-style: normal;
+	color: #487AFF;
 }
 
